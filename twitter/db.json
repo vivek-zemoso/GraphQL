@@ -1,0 +1,185 @@
+{
+  "tweets": [
+    {
+      "id": "tweet1",
+      "body": "Blockchain #technology is being considered in various industries due to its track and trace capabilities. At #LOX, we’re bringing #blockchain and #Microdot technology to the wireless device #security industry.",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user1",
+      "StatsId": "stat1",
+      "read": true
+    },
+    {
+      "id": "tweet2",
+      "body": "The #electric #fireplace is a kind of #transformation of the fire. The principle of the electric fireplace is to quote the European classical fireplace production #technology and modern acoustooptics, so that the design of the traditional fireplace has been greatly changed",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user2",
+      "StatsId": "stat2",
+      "read": false
+    },
+    {
+      "id": "tweet3",
+      "body": "When sensors, IoT and holograms merge to make holographic avatars dance... A stunning show!Learn more about these new technologies and many more by joining FuturePass, our new Web3 Community: http://futurepass.xyz",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user3",
+      "StatsId": "stat3",
+      "read": false
+    },
+    {
+      "id": "tweet4",
+      "body": "Blockchain #technology is being considered in various industries due to its track and trace capabilities. At #LOX, we’re bringing #blockchain and #Microdot technology to the wireless device #security industry.",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user1",
+      "StatsId": "stat1",
+      "read": true
+    },
+    {
+      "id": "tweet5",
+      "body": "The #electric #fireplace is a kind of #transformation of the fire. The principle of the electric fireplace is to quote the European classical fireplace production #technology and modern acoustooptics, so that the design of the traditional fireplace has been greatly changed",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user2",
+      "StatsId": "stat2",
+      "read": false
+    },
+    {
+      "id": "tweet6",
+      "body": "When sensors, IoT and holograms merge to make holographic avatars dance... A stunning show!Learn more about these new technologies and many more by joining FuturePass, our new Web3 Community: http://futurepass.xyz",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user3",
+      "StatsId": "stat3",
+      "read": false
+    },
+    {
+      "id": "tweet7",
+      "body": "Blockchain #technology is being considered in various industries due to its track and trace capabilities. At #LOX, we’re bringing #blockchain and #Microdot technology to the wireless device #security industry.",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user1",
+      "StatsId": "stat1",
+      "read": true
+    },
+    {
+      "id": "tweet8",
+      "body": "The #electric #fireplace is a kind of #transformation of the fire. The principle of the electric fireplace is to quote the European classical fireplace production #technology and modern acoustooptics, so that the design of the traditional fireplace has been greatly changed",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user2",
+      "StatsId": "stat2",
+      "read": false
+    },
+    {
+      "id": "tweet9",
+      "body": "When sensors, IoT and holograms merge to make holographic avatars dance... A stunning show!Learn more about these new technologies and many more by joining FuturePass, our new Web3 Community: http://futurepass.xyz",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user3",
+      "StatsId": "stat3",
+      "read": false
+    },
+    {
+      "id": "tweet10",
+      "body": "Blockchain #technology is being considered in various industries due to its track and trace capabilities. At #LOX, we’re bringing #blockchain and #Microdot technology to the wireless device #security industry.",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user1",
+      "StatsId": "stat1",
+      "read": true
+    },
+    {
+      "id": "tweet11",
+      "body": "The #electric #fireplace is a kind of #transformation of the fire. The principle of the electric fireplace is to quote the European classical fireplace production #technology and modern acoustooptics, so that the design of the traditional fireplace has been greatly changed",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user2",
+      "StatsId": "stat2",
+      "read": false
+    },
+    {
+      "id": "tweet12",
+      "body": "When sensors, IoT and holograms merge to make holographic avatars dance... A stunning show!Learn more about these new technologies and many more by joining FuturePass, our new Web3 Community: http://futurepass.xyz",
+      "date": "2022-07-04T15:08:29.514Z",
+      "AuthorId": "user3",
+      "StatsId": "stat3",
+      "read": false
+    }
+  ],
+
+  "users": [
+    {
+      "id": "user1",
+      "username": "VivekJain17",
+      "password": "$2a$12$ZlKykapRiQ1a8sImN98.tuVftJjCSL1juJbkdUrMY2QCCsh99cKZC",
+      "first_name": "Vivek",
+      "last_name": "Jain",
+      "full_name": "Vivek Jain",
+      "name": "vivekjian",
+      "avatar_url": "https://via.placeholder.com/150x150"
+    },
+    {
+      "id": "user2",
+      "username": "LoveFromLAL",
+      "password": "$2a$12$ZlKykapRiQ1a8sImN98.tuVftJjCSL1juJbkdUrMY2QCCsh99cKZC",
+      "first_name": "yashwanth",
+      "last_name": "lal",
+      "full_name": "yashwanth lala",
+      "name": "Yashwanth",
+      "avatar_url": "https://via.placeholder.com/150x150"
+    },
+    {
+      "id": "user3",
+      "username": "ScrumMaster",
+      "password": "$2a$12$ZlKykapRiQ1a8sImN98.tuVftJjCSL1juJbkdUrMY2QCCsh99cKZC",
+      "first_name": "Sai",
+      "last_name": "Teja",
+      "full_name": "Sai Teja",
+      "name": "SaiTeja",
+      "avatar_url": "https://via.placeholder.com/150x150"
+    }
+  ],
+
+  "stats": [
+    {
+      "id": "stat1",
+      "views": 200,
+      "likes": 45,
+      "retweets": 51,
+      "responses": 44
+    },
+    {
+      "id": "stat2",
+      "views": 120,
+      "likes": 115,
+      "retweets": 50,
+      "responses": 40
+    },
+    {
+      "id": "stat3",
+      "views": 1250,
+      "likes": 105,
+      "retweets": 550,
+      "responses": 450
+    },
+    {
+      "id": "stat4",
+      "views": 0,
+      "likes": 0,
+      "retweets": 0,
+      "responses": 0
+    }
+  ],
+
+  "notifications": [
+    {
+      "id": "note1",
+      "body": "msai liked your tweet",
+      "date": "2022-07-04T15:08:29.514Z",
+      "type": "like"
+    },
+    {
+      "id": "note2",
+      "body": "ScurmMaster retweeted",
+      "date": "2022-07-04T15:08:29.514Z",
+      "type": "retweet"
+    },
+    {
+      "id": "note3",
+      "body": "Elon Musk Tweeted again about doge coin",
+      "date": "2022-07-04T15:08:29.514Z",
+      "type": "new-tweet"
+    }
+  ]
+}
